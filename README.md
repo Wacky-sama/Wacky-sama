@@ -5,7 +5,6 @@
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=plastic&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 
 ## Frontend
